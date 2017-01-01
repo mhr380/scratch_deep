@@ -1,5 +1,8 @@
 .DS_Store
 __pycache__/*.pyc
+common/__pycache__/*.pyc
+dataset/__pycache__/*.pyc
+dataset/*.png
 
 mnist.py
 mnist.pkl
